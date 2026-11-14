@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# LaTeX build files (keep the distributable PDF)
+*.aux
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+*.nav
+*.snm
+*.vrb
