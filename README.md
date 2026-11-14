@@ -34,9 +34,11 @@
 
 ## 内页预览
 
+精选 9 页正文，涵盖通用结论、椭圆、双曲线与抛物线。点击图片可查看高清大图。
+
 <p align="center">
-  <a href="./圆锥曲线二级结论.pdf">
-    <img src="./assets/preview.png" alt="圆锥曲线讲义内页：三类曲线的标准方程与几何示意图" width="680">
+  <a href="./assets/preview.png">
+    <img src="./assets/preview.png" alt="圆锥曲线二级结论九页拼图：基础速查、通用结论、椭圆、双曲线与抛物线" width="960">
   </a>
 </p>
 
