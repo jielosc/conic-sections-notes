@@ -61,6 +61,4 @@ latexmk -xelatex -interaction=nonstopmode -halt-on-error "圆锥曲线二级结�
 
 ---
 
-整理：**Icelon** · [Icelon.top](https://Icelon.top)
-
 欢迎通过 [Issues](https://github.com/jielosc/conic-sections-notes/issues) 提交勘误与建议。
